@@ -4,7 +4,7 @@
 
 ## About me
 - studying computer science at [TU Berlin](https://www.tu.berlin/)
-- working at [Senercon] https://www.senercon.de/ as Junior Web-Developer
+- working at [Senercon](https://www.senercon.de/) as Junior Web-Developer
 - Windsurf-Teacher 👨‍🏫
 
 Hobbys
