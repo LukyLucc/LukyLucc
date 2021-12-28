@@ -9,7 +9,7 @@
 
 Hobbys
 - 🏄 Windsurfing 
-- 🖥 making my own small Programming Projekts 
+- 🖥 making my own small programming projects 
 
 ## Contact
 - My Email: luccafechner@gmx.de
